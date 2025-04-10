@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "comment4",
+      "@type" : "oa:Tag",
+      "chars" : "comment4"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "china street with full of people",
+      "@type" : "oa:Tag",
+      "chars" : "china street with full of people"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "red flag baloney&nbsp;\n&nbsp;\nbaloney is what your mother pleasured herself with after your father left the best part of you on her thigh...",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>red flag baloney&nbsp;</p>\n<p>&nbsp;</p>\n<p>baloney is what your mother pleasured herself with after your father left the best part of you on her thigh...</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/144495382",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-04-10T15:56:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1744300604633",
+    "dcterms:modified" : "2025-04-10T15:56:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anvarbek11.github.io/TMDRA25/manifests/manifest1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5278,3346,3229,1968"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5277.93206,3345.87261h1614.65605v0h1614.65605v984.03185v984.03185h-1614.65605h-1614.65605v-984.03185z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a851ebe8-169a-4cb9-8484-98cdb2429ee2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://665c8cba-1b85-47d7-bd89-51dd8c9ad6ec"
+    } ]
+  } ],
+  "@id" : "https://anvarbek11.github.io/TMDRA25/annotations/canvas4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
