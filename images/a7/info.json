@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 146,
+    "height" : 183
+  }, {
+    "width" : 292,
+    "height" : 365
+  }, {
+    "width" : 584,
+    "height" : 730
+  }, {
+    "width" : 1168,
+    "height" : 1460
+  }, {
+    "width" : 2336,
+    "height" : 2920
+  }, {
+    "width" : 4672,
+    "height" : 5840
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4672,
+  "@id" : "https://anvarbek11.github.io/TMDRA25/images/a7",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5840
+}
