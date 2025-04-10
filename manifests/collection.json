@@ -1,0 +1,13 @@
+{
+  "id" : "https://anvarbek11.github.io/TMDRA25/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in anvarbek11/TMDRA25 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://anvarbek11.github.io/TMDRA25/manifests/manifest1.json",
+    "label" : "manifest TMDRA25"
+  } ]
+}
