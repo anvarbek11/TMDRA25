@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://anvarbek11.github.io/TMDRA25/annotations/canvas1.json", "https://anvarbek11.github.io/TMDRA25/annotations/canvas2.json", "https://anvarbek11.github.io/TMDRA25/annotations/canvas3.json" ],
+  "otherContent" : [ "https://anvarbek11.github.io/TMDRA25/annotations/canvas1.json", "https://anvarbek11.github.io/TMDRA25/annotations/canvas2.json", "https://anvarbek11.github.io/TMDRA25/annotations/canvas3.json", "https://anvarbek11.github.io/TMDRA25/annotations/canvas4.json" ],
   "@id" : "https://anvarbek11.github.io/TMDRA25/annotations/collection.json",
   "label" : "All annotations loaded in anvarbek11/TMDRA25 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
