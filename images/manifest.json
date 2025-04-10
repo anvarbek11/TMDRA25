@@ -9,6 +9,87 @@
     },
     "items": [
         {
+            "id": "https://anvarbek11.github.io/TMDRA25/images/a1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "a1"
+                ]
+            },
+            "height": 6240,
+            "width": 4160,
+            "items": [
+                {
+                    "id": "https://anvarbek11.github.io/TMDRA25/images/a1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://anvarbek11.github.io/TMDRA25/images/a1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://anvarbek11.github.io/TMDRA25/images/a1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 130,
+                                                "height": 195
+                                            },
+                                            {
+                                                "width": 260,
+                                                "height": 390
+                                            },
+                                            {
+                                                "width": 520,
+                                                "height": 780
+                                            },
+                                            {
+                                                "width": 1040,
+                                                "height": 1560
+                                            },
+                                            {
+                                                "width": 2080,
+                                                "height": 3120
+                                            },
+                                            {
+                                                "width": 4160,
+                                                "height": 6240
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4160,
+                                        "@id": "https://anvarbek11.github.io/TMDRA25/images/a1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6240,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://anvarbek11.github.io/TMDRA25/images/a1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://anvarbek11.github.io/TMDRA25/images/a2/canvas/",
             "type": "Canvas",
             "label": {
@@ -84,6 +165,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://anvarbek11.github.io/TMDRA25/images/a2/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://anvarbek11.github.io/TMDRA25/images/a3/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "a3"
+                ]
+            },
+            "height": 4535,
+            "width": 3082,
+            "items": [
+                {
+                    "id": "https://anvarbek11.github.io/TMDRA25/images/a3/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://anvarbek11.github.io/TMDRA25/images/a3/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://anvarbek11.github.io/TMDRA25/images/a3/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 97,
+                                                "height": 142
+                                            },
+                                            {
+                                                "width": 193,
+                                                "height": 284
+                                            },
+                                            {
+                                                "width": 386,
+                                                "height": 567
+                                            },
+                                            {
+                                                "width": 771,
+                                                "height": 1134
+                                            },
+                                            {
+                                                "width": 1541,
+                                                "height": 2268
+                                            },
+                                            {
+                                                "width": 3082,
+                                                "height": 4535
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3082,
+                                        "@id": "https://anvarbek11.github.io/TMDRA25/images/a3",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4535,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://anvarbek11.github.io/TMDRA25/images/a3/canvas/"
                         }
                     ]
                 }
