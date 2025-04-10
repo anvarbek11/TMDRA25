@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "comment3",
+      "@type" : "oa:Tag",
+      "chars" : "comment3"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "airplane window",
+      "@type" : "oa:Tag",
+      "chars" : "airplane window"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : ". Your sources are worthless",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>. Your sources are worthless</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/144495382",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-04-10T15:55:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1744300520892",
+    "dcterms:modified" : "2025-04-10T15:55:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anvarbek11.github.io/TMDRA25/manifests/manifest1.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=551,1251,1090,896"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M550.82879,1250.85992h545.08236v0h545.08236v448.02983v448.02983h-545.08236h-545.08236v-448.02983z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8f3d60a3-99e1-478c-b402-d5426934d5ec\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#000000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://08bfcedc-64d2-443a-bc28-d81e00804056"
+    } ]
+  } ],
+  "@id" : "https://anvarbek11.github.io/TMDRA25/annotations/canvas3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
