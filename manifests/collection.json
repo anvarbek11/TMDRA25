@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://anvarbek11.github.io/TMDRA25/manifests/manifest1.json",
     "label" : "manifest TMDRA25"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://anvarbek11.github.io/TMDRA25/manifests/manifest11.json",
+    "label" : "manifest TMDRA25"
   } ]
 }
